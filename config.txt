@@ -1,2 +1,2 @@
-SOURCE=C:\Picture\Picture
-CIBLE=C:\PHOTOS_TRIEES
+SOURCE=H:\Mediatèque\Photo
+CIBLE=H:\PHOTOS_TRIEES
