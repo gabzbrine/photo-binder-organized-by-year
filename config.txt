@@ -1,0 +1,2 @@
+SOURCE=C:\Picture\Picture
+CIBLE=C:\PHOTOS_TRIEES
